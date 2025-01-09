@@ -1,2 +1,2 @@
-INSERT INTO test.messages VALUES ('Devops');
-INSERT INTO test.messages VALUES ('DeekshithSN');
+INSERT INTO test.messages VALUES ('Teste1');
+INSERT INTO test.messages VALUES ('Teste2');
