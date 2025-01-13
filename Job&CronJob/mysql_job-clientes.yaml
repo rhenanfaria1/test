@@ -18,5 +18,5 @@ spec:
            git clone https://github.com/DeekshithSN/kubernetes.git
            mysql -h mysql -u root -padmin -e 'CREATE DATABASE IF NOT EXISTS test';
            mysql -h mysql -u root -padmin test < kubernetes/datadump/clientes.sql
-           sleep 20
+           sleep 40
      restartPolicy: OnFailure   
