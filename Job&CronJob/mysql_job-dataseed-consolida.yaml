@@ -15,8 +15,8 @@ spec:
          - 'bash'
          - '-c'
          - |
-           git clone https://github.com/rhenanfaria1/test.git
+           git clone https://github.com/rhenanfaria1/test
            mysql -h mysql -u root -padmin -e 'CREATE DATABASE IF NOT EXISTS test';
-           mysql -h mysql -u root -padmin test < kubernetes/datadump/financas.sql
+           mysql -h mysql -u root -padmin test < test/datadump/relatorio.sql
            sleep 20
      restartPolicy: OnFailure   
