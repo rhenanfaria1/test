@@ -1,3 +1,3 @@
-INSERT INTO test.messages VALUES ('Relatório clientes ativos');
-INSERT INTO test.messages VALUES ('Relatório oportunidades abertas');
-INSERT INTO test.messages VALUES ('Relatório Treinamentos ativos por clientes');
+INSERT INTO test.messages VALUES ('Relatorio clientes ativos');
+INSERT INTO test.messages VALUES ('Relatorio oportunidades abertas');
+INSERT INTO test.messages VALUES ('Relatorio Treinamentos ativos por clientes');
